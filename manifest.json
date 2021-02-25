@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "TryGoogle",
+    "version": "1.0",
+  
+    "description": "Try Google allows you to retry your DuckDuckGo search with the google search engine",
+  
+    "icons": {
+      "48": "dax-logo.svg",
+      "96": "dax-logo.svg"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://*.duckduckgo.com/*"],
+        "js": ["jquery.js", "tryGoogle.js"]
+      }
+    ]
+}
