@@ -88,10 +88,10 @@ In Firefox: Open the about:debugging page, click "This Firefox" (in newer versio
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+<div align="center">
+<img src="https://github.com/FedericoJoseLucia/tryGoogle/blob/master/docs/screenshots/preview_before_light.png" width="600" >
+</div>
 
-<img src="https://github.com/FedericoJoseLucia/tryGoogle/blob/master/docs/screenshots/preview_before_light.png" width="800" >
-<img src="https://github.com/FedericoJoseLucia/tryGoogle/blob/master/docs/screenshots/preview_before_dark.png" width="800" >
-<img src="https://github.com/FedericoJoseLucia/tryGoogle/blob/master/docs/screenshots/preview_after.png" width="800" >
 
 <!-- ROADMAP -->
 ## Roadmap
