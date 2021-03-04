@@ -58,8 +58,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 If you are here you probably know DuckDuckGo and think it is the greatest search engine (If you don´t here is [why](https://spreadprivacy.com/why-use-duckduckgo-instead-of-google/)).
 
 However sometimes, of course due to the lack of trackers and stuff, DuckDuckGo search engine fails to deliver the correct result. That´s what TryGoogle is for, it will add your DuckDuckGo search result page a "TryGoogle" link. Click on it and it will recreate your query using the google search engine.
@@ -68,41 +66,13 @@ Also, in order for your google search to be a little more private, TryGoogle wil
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [JQuery](https://jquery.com)
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
+In Firefox: Open the about:debugging page, click "This Firefox" (in newer versions of Firefox), click "Load Temporary Add-on", then select any file in your extension's directory.
 
 
 <!-- USAGE EXAMPLES -->
@@ -112,6 +82,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 <!-- ROADMAP -->
