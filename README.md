@@ -14,6 +14,9 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<div align="center">
+<img src="https://github.com/FedericoJoseLucia/tryGoogle/blob/master/src/assets/logo.png" width="800" >
+</div>
 
 <h3 align="center">Try Google!</h3>
 
