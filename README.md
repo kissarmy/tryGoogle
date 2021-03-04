@@ -15,7 +15,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <div align="center">
-<img src="https://github.com/FedericoJoseLucia/tryGoogle/blob/master/src/assets/logo.png" width="800" >
+<img src="https://github.com/FedericoJoseLucia/tryGoogle/blob/master/docs/logo.png" width="200" >
 </div>
 
 <h3 align="center">Try Google!</h3>
