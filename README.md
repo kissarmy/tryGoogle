@@ -93,9 +93,9 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-[PREVIEW-BEFORE-LIGHT]
-[PREVIEW-BEFORE-DARK]
-[PREVIEW-AFTER]
+![PREVIEW-BEFORE-LIGHT][PREVIEW-BEFORE-LIGHT]
+![PREVIEW-BEFORE-DARK][PREVIEW-BEFORE-DARK]
+![PREVIEW-AFTER][PREVIEW-AFTER]
 
 
 <!-- ROADMAP -->
