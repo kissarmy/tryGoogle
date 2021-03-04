@@ -23,7 +23,7 @@
   <p align="center">
     An awesome Firefox extension to retry your DuckDuckGo query with the Google search engine
     <br />
-    <a href="https://addons.mozilla.org/en-US/firefox/"><strong>Find it on Mozilla Add-ons store »</strong></a>
+    <a href="https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-trygoogle/"><strong>Find it on Mozilla Add-ons store »</strong></a>
     <br />
     <br />
     <a href="https://github.com/FedericoJoseLucia/tryGoogle/issues">Report Bug</a>
@@ -80,7 +80,7 @@ Also, in order for your google search to be a little more private, TryGoogle wil
 
 ### Instalation
 
-You can install it directly to your browser (Currently only supporting mozilla) from the [Mozilla Add-ons store](https://addons.mozilla.org/en-US/firefox/)
+You can install it directly to your browser (Currently only supporting mozilla) from the [Mozilla Add-ons store](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-trygoogle/)
 
 
 ### Testing
