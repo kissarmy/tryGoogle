@@ -72,7 +72,14 @@ Also, in order for your google search to be a little more private, TryGoogle wil
 
 
 
-### Installation
+<!-- GETTING STARTED -->
+## Getting Started
+
+## Instalation
+
+You can install it directly to your browser (Currently only supporting mozilla) from the [Mozilla Add-ons store](https://addons.mozilla.org/en-US/firefox/)
+
+### Testing
 
 In Firefox: Open the about:debugging page, click "This Firefox" (in newer versions of Firefox), click "Load Temporary Add-on", then select any file in your extension's directory.
 
@@ -104,7 +111,6 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
 
 
 <!-- LICENSE -->
