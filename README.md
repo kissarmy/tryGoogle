@@ -17,9 +17,11 @@
 <h3 align="center">Try Google!</h3>
 
   <p align="center">
-    An awesome Firefox extension to retry your DuckDuckGo search with the google search engine
+    An awesome Firefox extension to retry your DuckDuckGo query with the Google search engine
     <br />
-    ·
+    <a href="https://addons.mozilla.org/en-US/firefox/"><strong>Find it on Mozilla Add-ons store »</strong></a>
+    <br />
+    <br />
     <a href="https://github.com/FedericoJoseLucia/tryGoogle/issues">Report Bug</a>
     ·
     <a href="https://github.com/FedericoJoseLucia/tryGoogle/issues">Request Feature</a>
