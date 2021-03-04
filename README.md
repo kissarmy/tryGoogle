@@ -97,7 +97,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ![PREVIEW-BEFORE-DARK][PREVIEW-BEFORE-DARK]
 ![PREVIEW-AFTER][PREVIEW-AFTER]
 
-<img src="https://github.com/FedericoJoseLucia/tryGoogle/blob/master/docs/screenshots/preview_after.png" width="100" height="100">
+<img src="https://github.com/FedericoJoseLucia/tryGoogle/blob/master/docs/screenshots/preview_after.png" width="500" >
 
 <!-- ROADMAP -->
 ## Roadmap
