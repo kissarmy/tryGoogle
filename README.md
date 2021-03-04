@@ -6,6 +6,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -42,8 +43,8 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#testing">Testing</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -51,7 +52,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -75,13 +75,15 @@ Also, in order for your google search to be a little more private, TryGoogle wil
 <!-- GETTING STARTED -->
 ## Getting Started
 
-## Instalation
+### Instalation
 
 You can install it directly to your browser (Currently only supporting mozilla) from the [Mozilla Add-ons store](https://addons.mozilla.org/en-US/firefox/)
+
 
 ### Testing
 
 In Firefox: Open the about:debugging page, click "This Firefox" (in newer versions of Firefox), click "Load Temporary Add-on", then select any file in your extension's directory.
+
 
 
 <!-- USAGE EXAMPLES -->
@@ -91,7 +93,8 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![PREVIEW-BEFORE-LIGHT][PREVIEW-BEFORE-LIGHT]]
+
 
 
 <!-- ROADMAP -->
@@ -111,6 +114,7 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
 
 
 <!-- LICENSE -->
@@ -134,15 +138,17 @@ Project Link: [https://github.com/FedericoJoseLucia/tryGoogle](https://github.co
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/FedericoJoseLucia/tryGoogle/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/FedericoJoseLucia/tryGoogle/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/FedericoJoseLucia/tryGoogle/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/FedericoJoseLucia/tryGoogle/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/FedericoJoseLucia/tryGoogle/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://www.linkedin.com/in/federicojoselucia/
+[PREVIEW-BEFORE-LIGHT]: docs/screenshots/preview_before_light.png
+[PREVIEW-BEFORE-DARK]: docs/screenshots/preview_before_dark.png
+[PREVIEW-AFTER]: docs/screenshots/preview_after.png
