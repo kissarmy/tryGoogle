@@ -89,15 +89,9 @@ In Firefox: Open the about:debugging page, click "This Firefox" (in newer versio
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-![PREVIEW-BEFORE-LIGHT][PREVIEW-BEFORE-LIGHT]
-![PREVIEW-BEFORE-DARK][PREVIEW-BEFORE-DARK]
-![PREVIEW-AFTER][PREVIEW-AFTER]
-
-<img src="https://github.com/FedericoJoseLucia/tryGoogle/blob/master/docs/screenshots/preview_after.png" width="500" >
+<img src="https://github.com/FedericoJoseLucia/tryGoogle/blob/master/docs/screenshots/preview_before_light.png" width="800" >
+<img src="https://github.com/FedericoJoseLucia/tryGoogle/blob/master/docs/screenshots/preview_before_dark.png" width="800" >
+<img src="https://github.com/FedericoJoseLucia/tryGoogle/blob/master/docs/screenshots/preview_after.png" width="800" >
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -151,6 +145,3 @@ Project Link: [https://github.com/FedericoJoseLucia/tryGoogle](https://github.co
 [license-url]: https://github.com/FedericoJoseLucia/tryGoogle/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/federicojoselucia/
-[PREVIEW-BEFORE-LIGHT]: docs/screenshots/preview_before_light.png
-[PREVIEW-BEFORE-DARK]: docs/screenshots/preview_before_dark.png
-[PREVIEW-AFTER]: docs/screenshots/preview_after.png
