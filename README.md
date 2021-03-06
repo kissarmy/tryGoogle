@@ -23,7 +23,7 @@
   <p align="center">
     An awesome Firefox extension to retry your DuckDuckGo query with the Google search engine
     <br />
-    <a href="https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-trygoogle/"><strong>Find it on Mozilla Add-ons store »</strong></a>
+    <a href="https://addons.mozilla.org/en-US/firefox/addon/trygoogle/"><strong>Find it on Mozilla Add-ons store »</strong></a>
     <br />
     <br />
     <a href="https://github.com/FedericoJoseLucia/tryGoogle/issues">Report Bug</a>
@@ -80,7 +80,7 @@ Also, in order for your google search to be a little more private, TryGoogle wil
 
 ### Instalation
 
-You can install it directly to your browser (Currently only supporting mozilla) from the [Mozilla Add-ons store](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-trygoogle/)
+You can install it directly to your browser (Currently only supporting mozilla) from the [Mozilla Add-ons store](https://addons.mozilla.org/en-US/firefox/addon/trygoogle/)
 
 
 ### Testing
@@ -150,3 +150,6 @@ Project Link: [https://github.com/FedericoJoseLucia/tryGoogle](https://github.co
 [license-url]: https://github.com/FedericoJoseLucia/tryGoogle/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/federicojoselucia/
+[mozilla-shield]: https://img.shields.io/amo/v/%7B525168c2-fc9e-45e2-a9ef-27091afefab1%7D?logo=mozilla&style=for-the-badge
+[mozilla-url]: https://addons.mozilla.org/en-US/firefox/addon/trygoogle/
+
