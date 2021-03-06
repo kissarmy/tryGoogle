@@ -13,6 +13,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Mozilla][mozilla-shield]][mozilla-url]
 
 <div align="center">
 <img src="https://github.com/FedericoJoseLucia/tryGoogle/blob/master/docs/logo.png" width="200" >
