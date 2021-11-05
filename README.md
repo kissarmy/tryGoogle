@@ -70,10 +70,6 @@ However sometimes, of course due to the lack of trackers and stuff, DuckDuckGo s
 
 Also, in order for your google search to be a little more private, TryGoogle will add noopener, nofollow and noreferrer attributes to the query. This will prevent google from knowing where you came from.
 
-### Built With
-
-* [JQuery](https://jquery.com)
-
 
 
 <!-- GETTING STARTED -->

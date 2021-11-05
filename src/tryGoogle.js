@@ -5,12 +5,12 @@ if (params.has("q")) {
     var searchText = params.get("q");
     var googleUri = "https://google.com/search?q=" + encodeURIComponent(searchText);
 
-    var anchor = $("<a>");
-    anchor.attr("href", googleUri);
-    anchor.attr("title", "Try using Google");
-    anchor.attr("target", "_blank");
-    anchor.attr("rel", "noopener nofollow noreferrer");
-    anchor.text("Try Google");
+    var anchor = document.createElement("a");
+    anchor.setAttribute("href", googleUri);
+    anchor.setAttribute("title", "Try using Google");
+    anchor.setAttribute("target", "_blank");
+    anchor.setAttribute("rel", "noopener nofollow noreferrer");
+    anchor.innerText = "Try Google";
 
-    $(".search-filters").append(anchor);
+    document.querySelector(".search-filters").appendChild(anchor);
 }
