@@ -33,17 +33,12 @@ if (params.has("q")) {
 
     var translate = getTranslate();
 
-    var anchor = $("<a>");
-    anchor.attr("href", googleUri);
-    //anchor.attr("title", "Try using Google");
-    anchor.attr("title", translate[1]);
-    anchor.attr("target", "_blank");
-    anchor.attr("rel", "noopener nofollow noreferrer");
-    //anchor.attr("class", "dropdown__button");
-    //anchor.text("Try Google");
-    anchor.text(translate[0]);
+    var anchor = document.createElement("a");
+    anchor.setAttribute("href", googleUri);
+    anchor.setAttribute("title", translate[1]);
+    anchor.setAttribute("target", "_blank");
+    anchor.setAttribute("rel", "noopener nofollow noreferrer");
+    anchor.innerText = translate[0];
 
-    $(".search-filters").append(anchor);
-;};
-
-
+    document.querySelector(".search-filters").appendChild(anchor);
+}
